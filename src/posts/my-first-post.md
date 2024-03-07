@@ -10,7 +10,7 @@ tags:
   - center
   - right
 ---
-![Anchorman: You stay classy San Diego](/static/img/you-stay-classy-san-diego-anchorman.gif)
+![Anchorman: You stay classy San Diego](/static/img/you-stay-classy-san-diego-anchorman.gif "Title goes here...")
 
 # This is a Heading h1
 
